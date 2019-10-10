@@ -1,2 +1,2 @@
-# projek-indotech
-Pojek Indotech
+# project-indotech
+Project Indotech
